@@ -14,7 +14,7 @@ A responsive landing page for Emerald Springs Resort. It consist of the followin
 - CSS3 for styling the HTML elements and adding design
 - jQuery for implementing functionalities and animations
 
-##Live Demo of the Project 
+## Live Demo of the Project 
 `https://frez-fall.github.io/resort-landing-page/`
 
 ## About Emerald Springs 
